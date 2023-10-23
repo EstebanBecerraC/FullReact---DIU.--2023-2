@@ -1,0 +1,14 @@
+.Noticia {
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #3333;
+    background-color: #489DEC;
+    text-align: center;
+    color: white;
+    
+  }
+
+.Noticia:hover{
+    background-color: #047BE9;
+    color:  black;
+}
