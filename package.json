@@ -17,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postinstall": "npm -f install @material-ui/core"
+    "preinstall": "npm -f install @material-ui/core"
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
